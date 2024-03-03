@@ -1,0 +1,43 @@
+.img{
+    text-align: center;
+}
+
+.arama{
+    text-align: center;
+    background-color: rgb(217, 211, 211);
+    margin: 0 50px 0 50px;
+}
+
+.sol{
+    text-align: center;
+    background-color: aqua;
+    float: left;
+    width: 471px;
+    height: 70px;
+    margin: 3px 3px 0 0;
+    margin-left: 50px;
+}
+
+.orta{
+    text-align: center;
+    background-color: rgb(9, 193, 193);
+    float: left;
+    width: 471px;
+    height: 70px;
+    margin: 3px 3px 0 0;
+    font-size: 14px;
+}
+
+.sag{
+    text-align: center;
+    background-color: rgb(14, 113, 113);
+    float: left;
+    width: 472px;
+    height: 70px;
+    margin: 3px 3px 0 0;
+    font-size: 12px;
+}
+.aciklama{
+    text-align: center;
+    font-size: 14px;
+}
